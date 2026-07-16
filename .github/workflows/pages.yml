@@ -42,9 +42,9 @@ jobs:
                   continue
               after = before
               if sec_a:
-                  after = after.replace('<!-- be9846170b6e11f54c0134 -->', sec_a)
+                  after = after.replace('<!-- be76245a024888ea0248f0e0a4c433e9 -->', sec_a)
               if sec_b:
-                  after = after.replace('<!--  -->', sec_b)
+                  after = after.replace('<!-- 52788cd61d3c014fe76a64d7844858ce2e3961 -->', sec_b)
               if after != before:
                   target.write_text(after, encoding='utf-8')
                   hits += 1
